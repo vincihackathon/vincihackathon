@@ -13,10 +13,9 @@
             android:title="Shopping List" />
         <item
             android:id="@+id/nav_slideshow"
-            android:enabled="false"
             android:icon="@android:drawable/stat_notify_sdcard"
-            android:title="Custom card"
-            android:visible="false" />
+            android:title="My Account"
+            />
         <item
             android:id="@+id/nav_manage"
             android:icon="@drawable/ic_menu_manage"
